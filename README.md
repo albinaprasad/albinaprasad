@@ -58,7 +58,7 @@ Python       0 secs                ░░░░░░░░░░░░░░░
 
 ## 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=albinaprasad&show_icons=true&theme=gotham" alt="albinaprasad" /> </p>
+<p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=albinaprasad&show_icons=true&theme=gotham" alt="albinaprasad" /> </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinaprasad&theme=gotham&hide_border=true&border_radius=15" width="68%" alt="Streak Stats" /> </p>
 
@@ -76,13 +76,13 @@ Python       0 secs                ░░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![SpotifyClone](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=SpotifyClone&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/SpotifyClone)
+[![SpotifyClone](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=albinaprasad&repo=SpotifyClone&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/SpotifyClone)
 &nbsp;
-[![SkinCareApp](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=skin-firts-SkinCareBookingApp-&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/skin-firts-SkinCareBookingApp-)
+[![SkinCareApp](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=albinaprasad&repo=skin-firts-SkinCareBookingApp-&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/skin-firts-SkinCareBookingApp-)
 
-[![facial-feature-extraction-app](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=facial-feature-extraction-app&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/facial-feature-extraction-app)
+[![facial-feature-extraction-app](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=albinaprasad&repo=facial-feature-extraction-app&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/facial-feature-extraction-app)
 &nbsp;
-[![car-overtaking-prediction](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=car-overtaking-prediction-system&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/car-overtaking-prediction-system)
+[![car-overtaking-prediction](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=albinaprasad&repo=car-overtaking-prediction-system&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/car-overtaking-prediction-system)
 
 </div>
 
