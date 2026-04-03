@@ -14,20 +14,26 @@
 
 ## 🧑‍💻 About Me
 
-```kotlin
-object AlbinAp {
-    val name        = "Albin Ap"
-    val location    = "Kottayam, Kerala 🌴"
-    val role        = "Android Developer"
-    val passions    = listOf("Jetpack Compose", "Kotlin", "MVVM", "Clean Architecture")
-    val learning    = "Advanced Coroutines · Kotlin Flow · KMP"
-    val askMeAbout  = arrayOf("Kotlin", "Jetpack Compose", "Android Architecture")
-    val funFact     = "I debug with coffee ☕ and fix bugs with more coffee"
+for freelance work? do reach, [email](mailto:albinap952654@gmail.com) :)
 
-    fun contact() = "albinap952654@gmail.com"
-    fun portfolio() = "github.com/albinaprasad"
-}
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```txt
+Kotlin       18 hrs 47 mins        ██████████████████▓░░░░░░   74.62 %
+Java         4 hrs 28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+XML          2 hrs 16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+Dart         1 hr 11 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
+<!--END_SECTION:waka-->
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -58,34 +64,18 @@ object AlbinAp {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## 📈 my github stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albinaprasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&icon_color=4285F4&text_color=ffffff&include_all_commits=true&count_private=true&border_radius=15" height="175" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinaprasad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=ffffff&langs_count=8&border_radius=15" height="175" alt="Top Languages" />
-</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=albinaprasad&show_icons=true&theme=gotham" alt="albinaprasad" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinaprasad&theme=tokyonight&hide_border=true&background=0D1117&ring=7F52FF&fire=FF6B6B&currStreakLabel=7F52FF&sideLabels=7F52FF&border_radius=15" width="68%" alt="Streak Stats" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albinaprasad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies" />
-</div>
-
-
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=albinaprasad&theme=gotham&hide_border=true&border_radius=15" width="68%" alt="Streak Stats" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinaprasad&bg_color=0D1117&color=7F52FF&line=4285F4&point=3DDC84&area=true&area_color=7F52FF&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albinaprasad&bg_color=0a0f14&color=2bbc8a&line=2bbc8a&point=FFFFFF&area=true&area_color=2bbc8a&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -94,13 +84,13 @@ object AlbinAp {
 
 <div align="center">
 
-[![SpotifyClone](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=SpotifyClone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=ffffff&icon_color=4285F4&border_radius=15)](https://github.com/albinaprasad/SpotifyClone)
+[![SpotifyClone](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=SpotifyClone&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/SpotifyClone)
 &nbsp;
-[![SkinCareApp](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=skin-firts-SkinCareBookingApp-&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=ffffff&icon_color=4285F4&border_radius=15)](https://github.com/albinaprasad/skin-firts-SkinCareBookingApp-)
+[![SkinCareApp](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=skin-firts-SkinCareBookingApp-&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/skin-firts-SkinCareBookingApp-)
 
-[![facial-feature-extraction-app](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=facial-feature-extraction-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=ffffff&icon_color=4285F4&border_radius=15)](https://github.com/albinaprasad/facial-feature-extraction-app)
+[![facial-feature-extraction-app](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=facial-feature-extraction-app&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/facial-feature-extraction-app)
 &nbsp;
-[![car-overtaking-prediction](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=car-overtaking-prediction-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F52FF&text_color=ffffff&icon_color=4285F4&border_radius=15)](https://github.com/albinaprasad/car-overtaking-prediction-system)
+[![car-overtaking-prediction](https://github-readme-stats.vercel.app/api/pin/?username=albinaprasad&repo=car-overtaking-prediction-system&theme=gotham&hide_border=true&border_radius=15)](https://github.com/albinaprasad/car-overtaking-prediction-system)
 
 </div>
 
@@ -132,13 +122,13 @@ object AlbinAp {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=albinaprasad&label=Profile+Views&color=7F52FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=albinaprasad&label=Profile+Views&color=2bbc8a&style=for-the-badge)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/albinaprasad?label=Followers&style=for-the-badge&color=4285F4&logo=github)
+![Followers](https://img.shields.io/github/followers/albinaprasad?label=Followers&style=for-the-badge&color=2bbc8a&logo=github)
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham" width="70%" alt="Random Dev Quote" />
 
 </div>
 
