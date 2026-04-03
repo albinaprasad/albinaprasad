@@ -120,7 +120,6 @@ Python       0 secs                ░░░░░░░░░░░░░░░
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gotham" width="70%" alt="Random Dev Quote" />
 
 </div>
 
