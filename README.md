@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-for freelance work? do reach, [email](mailto:albinap952654@gmail.com) :)
+for freelance work? do reach, :albinap952654@gmail.com 
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
