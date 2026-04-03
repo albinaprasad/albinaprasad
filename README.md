@@ -96,7 +96,7 @@ Python       0 secs                ░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/albinaprasad">
+<a href="https://www.linkedin.com/in/albin-ap-415161250/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
